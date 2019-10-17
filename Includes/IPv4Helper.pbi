@@ -5,15 +5,15 @@
 ;       Author: Herwin Bozet
 ;  Create date: 21 ‎June ‎2019, 19:24:33
 ; 
-;  Description: ???
+;  Description: A basic set of utility procedures and macros to help with IPv4 addresses.
 ; 
 ; ==- Compatibility -=============================
-;  Compiler version: PureBasic 5.62 (x64) (Other versions untested)
+;  Compiler version: PureBasic 5.62 & 5.70 (x64) (Other versions untested)
 ;  Operating system: Windows (Other platforms untested)
 ; 
 ; ==- Links & License -===========================
-;   Github: ???
-;  License: ???
+;   Github: https://github.com/aziascreations/PB-Networking-Playground
+;  License: Unlicense
 ; 
 ;}
 
@@ -235,8 +235,7 @@ CompilerEndIf
 
 ;}
 
-; IDE Options = PureBasic 5.62 (Windows - x64)
-; CursorPosition = 41
-; FirstLine = 24
-; Folding = -----
+; IDE Options = PureBasic 5.70 LTS (Windows - x64)
+; CursorPosition = 1
+; Folding = +----
 ; EnableXP

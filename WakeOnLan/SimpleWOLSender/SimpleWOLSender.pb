@@ -19,7 +19,7 @@
 ;  Operating system: Windows 10 (Other platforms untested)
 ; 
 ; ==- Links & License -===========================
-;   Github: https://github.com/aziascreations/PB-Audio-Playground
+;   Github: https://github.com/aziascreations/PB-Networking-Playground
 ;  License: Unlicense
 ;  
 ;}
@@ -30,7 +30,7 @@
 
 EnableExplicit
 
-XIncludeFile "../Includes/PB-Utils/Includes/Endianness.pbi"
+XIncludeFile "../../Includes/PB-Utils/Includes/Endianness.pbi"
 
 ;}
 
@@ -83,7 +83,6 @@ End 0
 ;}
 
 ; IDE Options = PureBasic 5.70 LTS (Windows - x64)
-; CursorPosition = 31
-; FirstLine = 24
-; Folding = -
+; CursorPosition = 47
+; Folding = +
 ; EnableXP
