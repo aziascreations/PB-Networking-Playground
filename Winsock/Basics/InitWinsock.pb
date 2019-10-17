@@ -29,8 +29,10 @@ EndIf
 ; The WinSock DLL is acceptable, we can proceed.
 
 
-; TODO: Should you clean up with "WSACleanup_()" at the end ?
+
+; Once we're finished, we just close the winsock library.
+WSACleanup_()
 
 ; IDE Options = PureBasic 5.70 LTS (Windows - x64)
-; CursorPosition = 31
+; CursorPosition = 5
 ; EnableXP
